@@ -47,5 +47,5 @@ public class LedgerApp {
         // Core Data Operations
 
         private void loadTransactions() {
-            all
+            al
         }
