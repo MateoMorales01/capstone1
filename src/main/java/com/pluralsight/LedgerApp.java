@@ -288,7 +288,7 @@ public class LedgerApp {
                     String description = scanner.nextLine();
 
                     System.out.println("===============================================================");
-                    System.out.println("                       Enter Vendor: ");
+                    System.out.println("                      Enter Vendor: ");
                     System.out.println("===============================================================");
                     String vendor = scanner.nextLine();
 
@@ -314,7 +314,7 @@ public class LedgerApp {
                     String description = scanner.nextLine();
 
                     System.out.println("===============================================================");
-                    System.out.println("                        Enter Vendor: ");
+                    System.out.println("                       Enter Vendor: ");
                     System.out.println("===============================================================");
                     String vendor = scanner.nextLine();
 
