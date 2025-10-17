@@ -56,8 +56,17 @@ public class LedgerApp {
                                     System.out.println("5) Search by Vendor");
                                     System.out.println("0) Back");
 
-                                    int userReportChoice = scanner.nextInt();
-                                    scanner.nextLine();
+                                    String input = scanner.nextLine();
+                                    int userReportChoice;
+
+                                    try {
+                                        userReportChoice = Integer.parseInt(input);
+                                    } catch (NumberFormatException e) {
+                                        System.out.println("Invalid input. Please enter a number.");
+                                        continue; // goes back to the top of the loop
+                                    }
+
+
 
                                     switch (userReportChoice) {
                                         case 1:
