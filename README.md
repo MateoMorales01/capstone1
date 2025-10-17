@@ -132,5 +132,17 @@ Seeing the Deposit transaction added to the Ledger Report:
 <img width="2560" height="1392" alt="Screenshot 2025-10-17 131243" src="https://github.com/user-attachments/assets/ccfcc6bd-f224-445c-b099-e63a59dbb2e3" />
 
 ---
+**Interesting Methods**
+
+Creating Boolean Statements and adding while loops was a tough challenge and made me take my time on learning how these methods function together
+
+Booleans:
+<img width="2560" height="1392" alt="Screenshot 2025-10-17 135103" src="https://github.com/user-attachments/assets/50acff38-b4b7-4fff-9fb3-8aa984f79d13" />
+
+While loops that I was working on when making the Report Menus:
+<img width="2560" height="1392" alt="Screenshot 2025-10-17 135121" src="https://github.com/user-attachments/assets/eb36ac02-42c6-40ef-b941-6ba2b61c0346" />
+---
+
+
 
 
