@@ -76,7 +76,7 @@ public class Transaction {
         DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
         DateTimeFormatter timeFormatter = DateTimeFormatter.ofPattern("HH:mm:ss");
 
-        return transactionDate.format(dateFormatter) + "," + transactionTime.format(timeFormatter) + "," + descriptions + "," + vendorName + ",$" + amount;
+        return transactionDate.format(dateFormatter) + "|" + transactionTime.format(timeFormatter) + "|" + descriptions + "|" + vendorName + "|$" + amount;
     }
 
 
