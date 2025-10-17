@@ -119,5 +119,3 @@ The deposit is then saved to `transactions.csv`.
 This Java console-based **Financial Ledger Application** lets users track their deposits and payments, store them in a CSV file, and generate various financial reports (monthly, yearly, or by vendor). It offers a text-based menu system for easy navigation, automatic timestamping of transactions, and persistent data storage, making it a simple functional financial tracking tool built using core Java features like file I/O, collections, and date/time APIs.
 
 ---
-
-Would you like me to format this README for **GitHub** (with emojis, headings, and badges) or keep it as a simple text version for a school submission or portfolio?
